@@ -1,6 +1,9 @@
 html {
   background-color: #282c34;
   padding: 10px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
 }
 
 .App {
